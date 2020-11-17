@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+
+{% block title %}Езда за копейки{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <header>
+            <h1>Езда за копейки</h1>
+        </header>
+        <hr>
+        <div class="row">
+        <div class="card" style="width: 18rem;">
+            <img src="../static/images/3.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Volkswagen polo</h5>
+              <p class="card-text">7руб/мин</p>
+              <a href="/rent" class="btn btn-primary">Арендовать</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img src="../static/images/1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Nissan Qashqai</h5>
+              <p class="card-text">10руб/мин</p>
+              <a href="/rent" class="btn btn-primary">Арендовать</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img src="../static/images/2.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">BMW X6</h5>
+              <p class="card-text">11руб/мин</p>
+              <a href="/rent" class="btn btn-primary">Арендовать</a>
+            </div>
+        </div>
+        </div>
+        <hr>
+        <footer>
+            Как с нами связаться<br>
+            Телефон: 555555555<br>
+            email: ggggggg@mail.ru
+        </footer>
+    </div>
+{% endblock %}
