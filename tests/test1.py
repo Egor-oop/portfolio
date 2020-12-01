@@ -1,5 +1,3 @@
-import random
-
 my_list = []
 
 z = 0
