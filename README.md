@@ -3,6 +3,6 @@ My portfolio with my projects
 
 I write codes on Python, HTML, CSS
 
-` python
+```python
 print('hello world')
-`
+```
