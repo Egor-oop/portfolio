@@ -9,3 +9,9 @@ I write codes on Python, HTML, CSS
 ```python
 print('hello world')
 ```
+
+
+
+### Discord (Russian)
+
+https://discord.gg/5qYgvxjzWe
