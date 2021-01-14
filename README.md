@@ -1,7 +1,7 @@
 # portfolio
 My portfolio with my projects
 
-I write codes on Python, HTML, CSS
+I write codes on Python, HTML, CSS, MySQL, SQLite
 
 ### Discord (Russian)
 
