@@ -1,4 +1,4 @@
-""" 
+"""
 	Only For Windows
 
 	comming soon
